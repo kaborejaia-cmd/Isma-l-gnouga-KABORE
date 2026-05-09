@@ -1,0 +1,8 @@
+{
+  "name": "FobChat",
+  "description": "Messagerie intelligente brisant les barrières linguistiques grâce à l'IA. Communication vocale et textuelle avec traduction instantanée en plusieurs langues locales.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
